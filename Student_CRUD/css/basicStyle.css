@@ -1,0 +1,39 @@
+﻿.box {
+    width:200px;
+    height:23px;    
+}
+
+.queryBox {
+    background-color:#F5F6CE;
+}
+.insertBox {
+    background-color:#D0F5A9;
+}
+.updateBox {
+    background-color:#A9E2F3;
+}
+.deleteBox {
+    background-color:#F5A9A9;
+}
+
+.button {
+    width:60px;
+    height:30px; 
+}
+.button:hover, .button:focus, .button:active {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+}
+
+.queryButton {
+    background-color:#F4FA58;
+}
+.insertButton {
+    background-color:#82FA58;
+}
+.updateButton {
+    background-color:#58FAF4;
+}
+.deleteButton {
+    background-color:#FA5858;
+}
+
