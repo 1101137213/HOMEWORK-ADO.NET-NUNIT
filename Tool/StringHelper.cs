@@ -22,7 +22,7 @@ namespace Tool
             if (s.Length > length)
             {
                 return s.Substring(s.Length - length, length);
-            } 
+            }   
             else
             {
                 return s;
